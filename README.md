@@ -1,5 +1,6 @@
+![logo](https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX52108380.jpg)
 # 💫 About Me:
-<img src="https://drive.google.com/file/d/1tLGhY-Ostkm2whvvgplWUmhOKRN6xVOC/view?usp=drive_link">
+<img src="https://i.pinimg.com/originals/d9/73/e9/d973e9bebe9d6d809e861c267942d151.png">
 
 
 ## 🌐 Socials:
@@ -25,7 +26,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Pinku4296&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+“Computers are fast; programmers keep it slow.”
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pinku4296&icon=2&color=1)](https://visitcount.itsvg.in)
